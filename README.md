@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
-**Author:** Siddharth Ahire
+**Author:** Banavath Mukesh
 
 ## Overview
 
